@@ -1,0 +1,22 @@
+{
+  "wheel_id": 719,
+  "structure": "umbrella",
+  "slug": "toptreeremovalcanberra-108",
+  "project": "tree-removal-services-canberra-faq-d24b6d583a7d1cc7c001b51221ba",
+  "parent_t1_ref": "toptreeremovalcanberra-153",
+  "node_role": "feeder",
+  "money_target": "toptreeremovalcanberra.com.au",
+  "primary_kw": "tree removal services canberra faq",
+  "intended_url": "https://sitesau.github.io/toptreeremovalcanberra-108/",
+  "tier": "T2",
+  "writeback_nonce": "4e55679bfe7e498f",
+  "links": [
+    {
+      "target_url": "http://tree-removal-services-canberra-98fb2affbee5d746fad5a5563d311fb7.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
